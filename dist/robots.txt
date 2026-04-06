@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /life-blog/_astro/
+
+Sitemap: https://violet-summer.github.io/life-blog/sitemap-index.xml
