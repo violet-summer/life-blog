@@ -52,6 +52,9 @@ export const navBarConfig: NavBarConfig = {
 	],
 };
 
+/** 列表卡片未设置 `image` 时的默认封面（`public` 根路径，见 ImageWrapper） */
+export const defaultPostCoverSrc = "/violet.png";
+
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/violet.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "VioletSummer",
