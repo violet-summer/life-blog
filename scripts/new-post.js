@@ -2,10 +2,6 @@
 
 import fs from "fs"
 import path from "path"
-import { fileURLToPath } from "url"
-
-const REPO_ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..")
-const targetDir = path.join(REPO_ROOT, "src", "content", "posts")
 
 function getDate() {
   const today = new Date()
@@ -32,6 +28,7 @@ if (!fileExtensionRegex.test(fileName)) {
   fileName += ".md"
 }
 
+const targetDir = "./src/content/posts/"
 const fullPath = path.join(targetDir, fileName)
 
 if (fs.existsSync(fullPath)) {

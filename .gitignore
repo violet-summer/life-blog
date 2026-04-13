@@ -1,4 +1,5 @@
-/dist
+# build output
+dist/
 
 # generated types
 .astro/
@@ -28,11 +29,11 @@ yarn.lock
 # ide
 .idea
 *.iml
-*.pdf
-*.pptx
-*.docx
-*.zip
-*.doc
-*.ini
-*.rar
-*.ppt
+.claude
+
+# docs
+Firefly-docs/
+
+cache/
+package/
+.obsidian/

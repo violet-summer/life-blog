@@ -1,37 +1,14 @@
----
-title: 关于我
-published: 2025-01-01
-draft: false
-description: 个人介绍与友链
----
-# 关于我
-This is the github site for [VioletSummer](https://github.com/violet-summer).
+# 关于我 / About Me
 
-::github{repo="violet-summer/violet-summer-blog"}
+你好！我是 **violet-summer** ，一个在数字世界中默默无闻的一片叶子。
 
-[//]: # (> ### Sources of images used in this site)
+目前就读于**华南理工大学硕士阶段**，是一名长期专注工程实践的**开发爱好者**，同时也在持续探索智能体、LLM 应用与相关方法论，是一名**AI 研究者**。
 
-[//]: # ()
-[//]: # (> - [Unsplash]&#40;https://unsplash.com/&#41;)
+我热衷于把抽象技术问题拆解成可落地的工程方案，关注从想法到产品原型的完整链路：需求分析、架构设计、代码实现、性能优化与上线迭代。日常主要围绕后端开发、算法与系统设计展开，也会投入不少时间研究 AI 在真实业务中的应用方式，例如知识增强、自动化工作流、代码助手与多 Agent 协作。
 
-[//]: # ()
-[//]: # (> - [星と少女]&#40;https://www.pixiv.net/artworks/108916539&#41; by [Stella]&#40;https://www.pixiv.net/users/93273965&#41;)
+这个博客是我的学习与实践笔记本，记录内容包括编程语言、开发工具链、工程踩坑复盘，以及 AI 相关的实验过程。相比“标准答案”，我更重视“可复现的方法”：为什么这么做、踩过哪些坑、如何验证有效、在什么场景下适用。
 
-[//]: # ()
-[//]: # (> - [Rabbit - v1.4 Showcase]&#40;https://civitai.com/posts/586908&#41; by [Rabbit_YourMajesty]&#40;https://civitai.com/user/Rabbit_YourMajesty&#41;)
+如果你也对开发实践、系统设计或 AI 应用感兴趣，欢迎一起交流。希望这些记录不仅是我自己的成长轨迹，也能给正在路上的你提供一点启发和帮助。
 
-# 友链
 
-高质量合作伙伴[smallcjy](https://smallcjy.github.io/about).
 
-::github{repo="smallcjy/smallcjy.github.io"}
-
-# 开源项目
-
-[网络隧道服务](https://github.com/NCX-Community/Ncx)
-::github{repo="NCX-Community/Ncx"}
-
-# 高质量博客以及开源项目
-
-> - [Fabien Sanglard's Website](https://fabiensanglard.net/doom3_documentation/index.php) ，内容包括Doom 3 和 Doom 3 BFG 的代码审查-这些内容是许多游戏程序员学习的起点
-> - [风格化城市布局生成](https://probabletrain.itch.io/city-generator)，使用张量场进行布局控制，并且通过投影计算，渲染出伪3d效果。

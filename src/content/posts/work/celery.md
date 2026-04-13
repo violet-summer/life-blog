@@ -1,5 +1,0 @@
----
-published: 2026-02-23
-title: "celery"
----
-踩坑python的celery方法只能传入基本的dict类型，不能使用自定义类型
